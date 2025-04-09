@@ -1,10 +1,20 @@
-# Deep-Learning-with-PyTorch
 # 🔥 Deep Learning with PyTorch  
 
 Welcome to the **Deep Learning with PyTorch** repository!  
 This repo is your one-stop guide to mastering PyTorch — starting from the fundamentals to building powerful models for computer vision tasks. Whether you're a beginner or revising your knowledge, these well-documented Jupyter notebooks will help you learn PyTorch efficiently.
 
 ## 📁 Repository Structure
+
+Deep-Learning-with-PyTorch/
+├── colab_notebooks/                   # All PyTorch tutorial notebooks
+│   ├── 1_fundamentals_of_torch.ipynb           # Tensors, autograd, basic ops
+│   ├── 2_workflow_of_torch.ipynb               # Model → Loss → Optimizer → Training loop
+│   ├── 3_classification_with_pytorch.ipynb     # Binary classification example
+│   ├── 4_multiclass_classification_with_torch.ipynb  # Multi-class classification
+│   └── 5_computer_vision_with_torch.ipynb      # CNN + image classification
+├── banner.png                         # (Optional) Banner image for README
+├── README.md                          # Project overview and guide
+└── LICENSE                            # MIT License (or your license of choice)
 
 
 ## 🚀 Notebooks Overview
@@ -22,7 +32,7 @@ This repo is your one-stop guide to mastering PyTorch — starting from the fund
 ## ▶️ Run on Google Colab
 
 Click below to run the notebooks directly in your browser:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/1_fundamentals_of_torch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/01_fundamentals_of_torch.ipynb)
 
 > 📌 *You can navigate to other notebooks from the Colab interface after opening the first one.*
 
