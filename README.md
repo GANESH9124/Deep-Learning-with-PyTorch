@@ -13,7 +13,6 @@ Deep-Learning-with-PyTorch/
 │   ├── 3_classification_with_pytorch.ipynb     # Binary classification example
 │   ├── 4_multiclass_classification_with_torch.ipynb  # Multi-class classification
 │   └── 5_computer_vision_with_torch.ipynb      # CNN + image classification
-├── banner.png                                  # (Optional) Banner image for README
 ├── README.md                                   # Project overview and guide
 └── LICENSE                                     # MIT License (or your license of choice)
 ```
