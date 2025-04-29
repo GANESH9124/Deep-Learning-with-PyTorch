@@ -37,16 +37,16 @@ Click any of the notebooks below to open them directly in Google Colab:
 ### 🔹 [01 - Torch Fundamentals](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/01_torch_fundamentals.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/01_torch_fundamentals.ipynb)
 
-### 🔹 [02 - Workflow of Torch](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/02_torch_workflow.ipynb)
+### 🔹 [02 - Workflow of Torch](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/02_PyTorch-WorkFlow.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/02_PyTorch-WorkFlow.ipynb)
 
-### 🔹 [03 - Classification with PyTorch](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/03_pytorch_classification.ipynb)
+### 🔹 [03 - Classification with PyTorch](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/03_Classification-Neural-Network-with-PyTorch.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/03_Classification-Neural-Network-with-PyTorch.ipynb)
 
-### 🔹 [04 - Multiclass Classification](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/04_multiclass_classification.ipynb)
+### 🔹 [04 - Multiclass Classification](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/04_Multiclass-classification-with-PyTorch.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/04_Multiclass-classification-with-PyTorch.ipynb)
 
-### 🔹 [05 - Computer Vision with Torch](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/05_computer_vision.ipynb)
+### 🔹 [05 - Computer Vision with Torch](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/05_Computer-Vision-with-PyTorch.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GANESH9124/Deep-Learning-with-PyTorch/blob/main/colab_notebooks/05_Computer-Vision-with-PyTorch.ipynb)
 
 ---
